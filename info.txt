@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name" "Physgun Undo"
+	"author_name" "author"
+	"info" "This small tool allows you to undo actions you have done with your physgun. 
+Simply bind keys to physgun_undo and physgun_undo_entity commands. physgun_undo will undo your last action with your physgun (Unfreeze all is not included), and physgun_undo_entity will undo your last action with your physgun that was done on the entity you are aiming at."
+}
